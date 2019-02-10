@@ -1,0 +1,7 @@
+DEPENDENCIES
+  haproxy
+    git: https://github.com/BaritoLog/haproxy-cookbook.git
+    revision: 8d85d6ac5aad2e21a1fc0dddee2abf006040a43e
+
+GRAPH
+  haproxy (0.1.0)
